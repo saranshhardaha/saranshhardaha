@@ -13,6 +13,12 @@
 - 💬 Ask me about anything [here]
 - ⚡ Fun fact: I ❤️ 🐶s
 
+### Some of my **work**:
+ [**Covid19Avail**](https://coavail.vercel.app/)
+ ⚬
+ [**Animeo**](https://animeo.vercel.app/)
+ 
+
 ![Profile views](https://gpvc.arturio.dev/5tupidbrain)  <img src="https://img.shields.io/github/followers/5tupidbrain?label=Follow" style=" float:left, margin-right:10px" />
 
 ### You can find in me in the web 🌍
