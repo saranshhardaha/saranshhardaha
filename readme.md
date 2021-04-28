@@ -1,9 +1,11 @@
 ### Hello World, I'm Saransh Hardaha - aka [5tupidbrain][website] 👋
 ---
 
+<!---
 <p align="center">
   <img src="https://github.com/5tupidbrain/5tupidbrain/blob/main/GithubBanner.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
+-->
 
 # I'm a passionate Web Developer from India.
 
