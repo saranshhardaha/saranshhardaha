@@ -7,7 +7,7 @@
 </p>
 -->
 
-# I'm a passionate Web Developer from India.
+# I Enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
 - 🔭 I’m currently working on Minor Projects
 - 🌱 I’m currently learning Python, Django
