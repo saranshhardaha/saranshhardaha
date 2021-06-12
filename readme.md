@@ -21,6 +21,8 @@
  [**Covid19Avail**](https://coavail.vercel.app/)
  ⚬
  [**Animeo**](https://animeo.vercel.app/)
+ ⚬
+ [**CubeOS**](https://cubeos.vercel.app/)
  
 <hr>
 
