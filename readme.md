@@ -7,7 +7,7 @@
 </p>
 -->
 
-# I Enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
+## I Enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
 - 🔭 I’m currently working on Minor Projects
 - 🌱 I’m currently learning Python, Django
@@ -44,7 +44,6 @@
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
@@ -57,7 +56,7 @@
 <details>
   <summary><b>📊 Github Stats</b></summary>
   <p align="center">   
-  <img align="left" alt="5tupidbrain's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=5tupidbrain&show_icons=true&hide_border=true" />
+  <img align="left" alt="5tupidbrain's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=5tupidbrain" />
 </details>
 
 <details>
