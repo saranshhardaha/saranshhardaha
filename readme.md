@@ -9,13 +9,13 @@
 
 ## I Enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
-- 🔭 I’m currently working on Minor Projects
-- 🌱 I’m currently learning Python, Django
-- 📫 How to reach me hellosaranshh@gmail.com
+- 🔭 I’m currently working as a Software Developer.
+- 🌱 I’m currently learning .Net, and Blazor.
+- 📫 How to reach me saranshhardaha@outlook.com
 - 💬 Ask me about anything [here]
 - ⚡ Fun fact: I ❤️ 🐶s
 
-![Profile views](https://gpvc.arturio.dev/5tupidbrain)  <img src="https://img.shields.io/github/followers/5tupidbrain?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/5tupidbrain)  <img src="https://img.shields.io/github/followers/saranshhardaha?label=Follow" style=" float:left, margin-right:10px" />
 
 ### Some of my **work**:
  [**Covid19Avail**](https://coavail.vercel.app/)
@@ -68,8 +68,8 @@
 </details>
 
 [website]: https://5tupidbrain.now.sh
-[here]:https://instagram.com/5tupidbrain
+[here]:https://instagram.com/sarannsshh
 [twitter]: https://twitter.com/5tupidbrain
 [youtube]: https://youtube.com/5tupidbrain
-[instagram]: https://instagram.com/5tupidbrain
-[linkedin]: https://linkedin.com/in/5tupidbrain
+[instagram]: https://instagram.com/sarannsshh
+[linkedin]: https://linkedin.com/in/saranshhardaha
