@@ -58,13 +58,13 @@
 <details>
   <summary><b>📊 Github Stats</b></summary>
   <p align="center">   
-  <img align="left" alt="5tupidbrain's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=5tupidbrain" />
+  <img align="left" alt="5tupidbrain's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saranshhardaha" />
 </details>
 
 <details>
   <summary><b>⚡ Most Used Languages</b></summary>
   <p align="center">   
-  <img align="left" alt="5tupidBrain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5tupidbrain">
+  <img align="left" alt="5tupidBrain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshhardaha">
 </details>
 
 [website]: https://5tupidbrain.now.sh
