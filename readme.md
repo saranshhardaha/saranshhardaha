@@ -55,6 +55,7 @@
 <br />
 <br />
 
+<div style="display:flex;">
 <details>
   <summary><b>📊 Github Stats</b></summary>
   <p align="center">   
@@ -66,6 +67,7 @@
   <p align="center">   
   <img align="left" alt="5tupidBrain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshhardaha">
 </details>
+</div>
 
 [website]: https://5tupidbrain.now.sh
 [here]:https://instagram.com/sarannsshh
