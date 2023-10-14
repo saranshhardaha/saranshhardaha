@@ -1,4 +1,4 @@
-### Hello World, I'm Saransh Hardaha - aka [5tupidbrain][website] 👋
+### Hello World, I'm Saransh Hardaha 👋
 ---
 
 <!---
@@ -18,18 +18,13 @@
 ![Profile views](https://gpvc.arturio.dev/5tupidbrain)  <img src="https://img.shields.io/github/followers/saranshhardaha?label=Follow" style=" float:left, margin-right:10px" />
 
 ### Some of my **work**:
- [**Covid19Avail**](https://coavail.vercel.app/)
- ⚬
  [**Animeo**](https://animeo.vercel.app/)
- ⚬
- [**CubeOS**](https://cubeos.vercel.app/)
  
 <hr>
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="5tupidbrain | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="5tupidbrain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="5tupidbrain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="5tupidbrain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 <hr>
@@ -70,9 +65,8 @@
 </details>
 </div>
 
-[website]: https://5tupidbrain.now.sh
+[website]: https://5saranshh.in
 [here]:https://instagram.com/sarannsshh
-[twitter]: https://twitter.com/5tupidbrain
 [youtube]: https://youtube.com/5tupidbrain
 [instagram]: https://instagram.com/sarannsshh
 [linkedin]: https://linkedin.com/in/saranshhardaha
