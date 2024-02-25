@@ -1,4 +1,4 @@
-### Hello World, I'm Saransh Hardaha 👋
+### Welcome to my GitHub profile!, I'm Saransh Hardaha 👋
 ---
 
 <!---
@@ -10,12 +10,12 @@
 ## I Enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
 - 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning .Net, and Blazor.
+- 🌱 I’m currently learning and working in .Net, and Blazor.
 - 📫 How to reach me saranshhardaha@outlook.com
 - 💬 Ask me about anything [here]
 - ⚡ Fun fact: I ❤️ 🐶s
 
-![Profile views](https://gpvc.arturio.dev/5tupidbrain)  <img src="https://img.shields.io/github/followers/saranshhardaha?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/saranshhardaha)  <img src="https://img.shields.io/github/followers/saranshhardaha?label=Follow" style=" float:left, margin-right:10px" />
 
 ### Some of my **work**:
  [**Animeo**](https://animeo.vercel.app/)
@@ -23,9 +23,9 @@
 <hr>
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="5tupidbrain | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="5tupidbrain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="5tupidbrain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="saranshhardaha | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="saranshhardaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="saranshhardaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 <hr>
 
@@ -65,7 +65,7 @@
 </details>
 </div>
 
-[website]: https://5saranshh.in
+[website]: https://saranshh.in
 [here]:https://instagram.com/sarannsshh
 [youtube]: https://youtube.com/5tupidbrain
 [instagram]: https://instagram.com/sarannsshh
