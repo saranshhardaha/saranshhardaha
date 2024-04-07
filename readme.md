@@ -25,7 +25,6 @@ I Enjoy creating things that live on the internet, whether that be websites, app
   <a href="https://github.com/saranshhardaha/lo-icons">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=lo-icons" />
 </a>
-<div>
   <a href="https://github.com/saranshhardaha/animeo-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=animeo-v2" />
 </a>
