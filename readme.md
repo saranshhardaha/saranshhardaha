@@ -22,7 +22,7 @@ I Enjoy creating things that live on the internet, whether that be websites, app
 #### ⚒️ Some of my work
 
 <div>
-  <a href="https://github.com/saranshhardaha/animeo-v">
+  <a href="https://github.com/saranshhardaha/animeo-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=animeo-v2" />
 </a>
 <a href="https://github.com/saranshhardaha/pixl-wall">
