@@ -7,13 +7,13 @@ I Enjoy creating things that live on the internet, whether that be websites, app
 ### Things I worked with
 
 #### Frameworks and Languages
-![](https://skillicons.dev/icons?i=react,next,js,ts,tailwind,net,cs,nodejs,expressjs,flutter,mongo)
+![](https://lo-icons.vercel.app/icons?i=react,next,js,ts,tailwind,net,cs,nodejs,expressjs,flutter,mongo)
 
 #### Version control and Cloud providers
-![](https://skillicons.dev/icons?i=git,github,azure,aws,firebase,supabase)
+![](https://lo-icons.vercel.app/icons?i=git,github,azure,aws,firebase,supabase)
 
 #### IDE & Tools
-![](https://skillicons.dev/icons?i=vscode,visualstudio,postman,linux,windows,npm,yarn,vercel,docker)
+![](https://lo-icons.vercel.app/icons?i=vscode,visualstudio,postman,linux,windows,npm,yarn,vercel,docker)
 
 #### Where to find me
 
@@ -21,6 +21,10 @@ I Enjoy creating things that live on the internet, whether that be websites, app
 
 #### ⚒️ Some of my work
 
+<div>
+  <a href="https://github.com/saranshhardaha/lo-icons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=lo-icons" />
+</a>
 <div>
   <a href="https://github.com/saranshhardaha/animeo-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=animeo-v2" />
