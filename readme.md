@@ -22,10 +22,10 @@ I Enjoy creating things that live on the internet, whether that be websites, app
 #### ⚒️ Some of my work
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/saranshhardaha/animeo-v">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=animeo-v2" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/saranshhardaha/pixl-wall">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=pixl-wall" />
 </a>
 </div>
