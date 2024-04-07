@@ -4,9 +4,16 @@ Welcome to my github profile!
 I'm Saransh, Fullstack developer from <img src="https://www.india.gov.in/sites/upload_files/npi/files/spotlights/national_flag.jpg" width="20"/> **Madhya Pradesh, India**.  
 I Enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
 
-#### Things I code with
+### Things I worked with
 
-![](https://skillicons.dev/icons?i=react,js,ts,net,cs,nodejs,flutter,firebase,tailwind,git,github,azure,npm,vercel,mongo)
+#### Frameworks and Languages
+![](https://skillicons.dev/icons?i=react,next,js,ts,tailwind,net,cs,nodejs,expressjs,flutter,mongo)
+
+#### Version control and Cloud providers
+![](https://skillicons.dev/icons?i=git,github,azure,aws,firebase,supabase)
+
+#### IDE & Tools
+![](https://skillicons.dev/icons?i=vscode,visualstudio,postman,linux,windows,npm,yarn,vercel,docker)
 
 #### Where to find me
 
@@ -14,23 +21,21 @@ I Enjoy creating things that live on the internet, whether that be websites, app
 
 #### ⚒️ Some of my work
 
-[![Animeo](https://img.shields.io/badge/animeo-%230077B5.svg?&style=for-the-badge)](https://animeo-v2.vercel.app)
-
-An online platform that will let viewers watch their preferred anime series online.
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=animeo-v2" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=pixl-wall" />
+</a>
+</div>
 
 
 #### 📊 Github stats
 
 <div style="display:flex;">
 
-![Saransh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saranshhardaha)
-
-</div>
-
-#### ⚡ Most used languages
-
-<div>
-
-![Saransh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saranshhardaha)
+[![Saransh's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=saranshhardaha&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/saranshhardaha/saranshhardaha#gh-dark-mode-only)
+[![Saransh's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=saranshhardaha&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/saranshhardaha/saranshhardaha#gh-light-mode-only)
 
 </div>
