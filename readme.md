@@ -19,18 +19,6 @@ I Enjoy creating things that live on the internet, whether that be websites, app
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/saranshhardaha) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saranshhardaha) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranshhardaha)
 
-#### ⚒️ Some of my work
-
-<div>
-  <a href="https://github.com/saranshhardaha/lo-icons">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=lo-icons" />
-</a>
-  <a href="https://github.com/saranshhardaha/animeo-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saranshhardaha&repo=animeo-v2" />
-</a>
-</div>
-
-
 #### 📊 Github stats
 
 <div style="display:flex;">
