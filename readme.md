@@ -4,6 +4,7 @@ Welcome to my github profile!
 I'm Saransh, Fullstack developer from <img src="https://www.india.gov.in/sites/upload_files/npi/files/spotlights/national_flag.jpg" width="20"/> **Madhya Pradesh, India**.  
 I Enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.<br/>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U41HHPYV)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/saranshh)
 
 ### Things I worked with
 
